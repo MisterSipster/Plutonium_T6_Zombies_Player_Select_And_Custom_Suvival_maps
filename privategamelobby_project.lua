@@ -1,3 +1,87 @@
+ 
+CoD.PrivateGameLobby.PlayerSelect = {}
+CoD.PrivateGameLobby.PlayerSelect[1] = {}
+CoD.PrivateGameLobby.PlayerSelect[1].id = "PLAYER_SELECT"
+CoD.PrivateGameLobby.PlayerSelect[1].name = "SELECT CHARACTER"
+CoD.PrivateGameLobby.PlayerSelect[1].hintText = "Select your chracter."
+CoD.PrivateGameLobby.PlayerSelect[1].labels = {}
+CoD.PrivateGameLobby.PlayerSelect[1].labels[1] = "RANDOM"
+CoD.PrivateGameLobby.PlayerSelect[1].labels[2] = "RUSSMAN"
+CoD.PrivateGameLobby.PlayerSelect[1].labels[3] = "STUHLINGER"
+CoD.PrivateGameLobby.PlayerSelect[1].labels[4] = "MISTY"
+CoD.PrivateGameLobby.PlayerSelect[1].labels[5] = "MARLTON"
+CoD.PrivateGameLobby.PlayerSelect[1].values = {}
+CoD.PrivateGameLobby.PlayerSelect[1].values[1] = 0
+CoD.PrivateGameLobby.PlayerSelect[1].values[2] = 1
+CoD.PrivateGameLobby.PlayerSelect[1].values[3] = 2
+CoD.PrivateGameLobby.PlayerSelect[1].values[4] = 3
+CoD.PrivateGameLobby.PlayerSelect[1].values[5] = 4
+CoD.PrivateGameLobby.PlayerSelect[1].maps = {}
+CoD.PrivateGameLobby.PlayerSelect[1].maps[1] = "zm_transit"
+CoD.PrivateGameLobby.PlayerSelect[1].maps[2] = "zm_highrise"
+CoD.PrivateGameLobby.PlayerSelect[1].maps[3] = "zm_buried"
+CoD.PrivateGameLobby.PlayerSelect[1].gameTypes = {}
+CoD.PrivateGameLobby.PlayerSelect[1].gameTypes[1] = "zclassic"
+
+CoD.PrivateGameLobby.PlayerSelect[2] = {}
+CoD.PrivateGameLobby.PlayerSelect[2].id = "PLAYER_SELECT"
+CoD.PrivateGameLobby.PlayerSelect[2].name = "SELECT CHARACTER"
+CoD.PrivateGameLobby.PlayerSelect[2].hintText = "Select your chracter."
+CoD.PrivateGameLobby.PlayerSelect[2].labels = {}
+CoD.PrivateGameLobby.PlayerSelect[2].labels[1] = "RANDOM"
+CoD.PrivateGameLobby.PlayerSelect[2].labels[2] = "WEASEL"
+CoD.PrivateGameLobby.PlayerSelect[2].labels[3] = "BILLY"
+CoD.PrivateGameLobby.PlayerSelect[2].labels[4] = "SAL"
+CoD.PrivateGameLobby.PlayerSelect[2].labels[5] = "FIN"
+CoD.PrivateGameLobby.PlayerSelect[2].values = {}
+CoD.PrivateGameLobby.PlayerSelect[2].values[1] = 0
+CoD.PrivateGameLobby.PlayerSelect[2].values[2] = 1
+CoD.PrivateGameLobby.PlayerSelect[2].values[3] = 2
+CoD.PrivateGameLobby.PlayerSelect[2].values[4] = 3
+CoD.PrivateGameLobby.PlayerSelect[2].values[5] = 4
+CoD.PrivateGameLobby.PlayerSelect[2].maps = {}
+CoD.PrivateGameLobby.PlayerSelect[2].maps[1] = "zm_prison"
+CoD.PrivateGameLobby.PlayerSelect[2].gameTypes = {}
+CoD.PrivateGameLobby.PlayerSelect[2].gameTypes[1] = "zclassic"
+
+CoD.PrivateGameLobby.PlayerSelect[3] = {}
+CoD.PrivateGameLobby.PlayerSelect[3].id = "TEAM_SELECT"
+CoD.PrivateGameLobby.PlayerSelect[3].name = "SELECT TEAM"
+CoD.PrivateGameLobby.PlayerSelect[3].hintText = "Select your team."
+CoD.PrivateGameLobby.PlayerSelect[3].labels = {}
+CoD.PrivateGameLobby.PlayerSelect[3].labels[1] = "RANDOM"
+CoD.PrivateGameLobby.PlayerSelect[3].labels[2] = "CIA"
+CoD.PrivateGameLobby.PlayerSelect[3].labels[3] = "CDC"
+CoD.PrivateGameLobby.PlayerSelect[3].values = {}
+CoD.PrivateGameLobby.PlayerSelect[3].values[1] = 0
+CoD.PrivateGameLobby.PlayerSelect[3].values[2] = 1
+CoD.PrivateGameLobby.PlayerSelect[3].values[3] = 2
+CoD.PrivateGameLobby.PlayerSelect[3].maps = {}
+CoD.PrivateGameLobby.PlayerSelect[3].maps[1] = "zm_transit"
+CoD.PrivateGameLobby.PlayerSelect[3].maps[2] = "zm_nuked"
+CoD.PrivateGameLobby.PlayerSelect[3].gameTypes = {}
+CoD.PrivateGameLobby.PlayerSelect[3].gameTypes[1] = "zstandard"
+
+CoD.PrivateGameLobby.PlayerSelect[4] = {}
+CoD.PrivateGameLobby.PlayerSelect[4].id = "PLAYER_SELECT"
+CoD.PrivateGameLobby.PlayerSelect[4].name = "SELECT CHARACTER"
+CoD.PrivateGameLobby.PlayerSelect[4].hintText = "Select your character."
+CoD.PrivateGameLobby.PlayerSelect[4].labels = {}
+CoD.PrivateGameLobby.PlayerSelect[4].labels[1] = "RANDOM"
+CoD.PrivateGameLobby.PlayerSelect[4].labels[2] = "DEMPSEY"
+CoD.PrivateGameLobby.PlayerSelect[4].labels[3] = "NIKOLAI"
+CoD.PrivateGameLobby.PlayerSelect[4].labels[4] = "RICHTOFEN"
+CoD.PrivateGameLobby.PlayerSelect[4].labels[5] = "TAKEO"
+CoD.PrivateGameLobby.PlayerSelect[4].values = {}
+CoD.PrivateGameLobby.PlayerSelect[4].values[1] = 0
+CoD.PrivateGameLobby.PlayerSelect[4].values[2] = 1
+CoD.PrivateGameLobby.PlayerSelect[4].values[3] = 2
+CoD.PrivateGameLobby.PlayerSelect[4].values[4] = 3
+CoD.PrivateGameLobby.PlayerSelect[4].values[5] = 4
+CoD.PrivateGameLobby.PlayerSelect[4].maps = {}
+CoD.PrivateGameLobby.PlayerSelect[4].maps[1] = "zm_tomb"
+CoD.PrivateGameLobby.PlayerSelect[4].gameTypes = {}
+CoD.PrivateGameLobby.PlayerSelect[4].gameTypes[1] = "zclassic"
 
 CoD.PrivateGameLobby.CustomSurvivals = {}
 CoD.PrivateGameLobby.CustomSurvivals[1] = {}
@@ -476,12 +560,13 @@ CoD.PrivateGameLobby.PopulateButtons_Project_Zombie = function (PrivateGameLobby
 		-- local SetupGameText = Engine.Localize("MPUI_SETUP_GAME_CAPS")
 		-- local f9_local1_1, f9_local1_2, f9_local1_3, f9_local1_4 = GetTextDimensions(SetupGameText, CoD.CoD9Button.Font, CoD.CoD9Button.TextHeight)
 		-- PrivateGameLobbyButtonPane.body.setupGameButton = PrivateGameLobbyButtonPane.body.buttonList:addButton(SetupGameText)
-		-- PrivateGameLobbyButtonPane.body.setupGameButton.hintText = Engine.Localize("MPUI_SETUP_GAME_DESC")
+		-- PrivateGameLobbyButtonPane.body.setupGameButton.hintText = Engine.Localize("MPUI_SETUP_GAME_DESC")d
 		-- PrivateGameLobbyButtonPane.body.setupGameButton:setActionEventName("open_setup_game_flyout")
 		-- PrivateGameLobbyButtonPane.body.setupGameButton:registerEventHandler("button_update", CoD.PrivateGameLobby.Button_UpdateHostButton)
 		-- if PrivateGameLobbyButtonPane.body.widestButtonTextWidth < f9_local1_3 then
 		-- 	PrivateGameLobbyButtonPane.body.widestButtonTextWidth = f9_local1_3
 		-- end
+		AddGameOptionsButtons(PrivateGameLobbyButtonPane, CoD.PrivateGameLobby.PlayerSelect, "dvar")
 		AddGameOptionsButtons(PrivateGameLobbyButtonPane, CoD.PrivateGameLobby.CustomSurvivals, "dvar")
 		AddGameOptionsButtons(PrivateGameLobbyButtonPane, CoD.PrivateGameLobby.GameTypeSettings, "gts")
 		AddGameOptionsButtons(PrivateGameLobbyButtonPane, CoD.PrivateGameLobby.Dvars, "dvar")
