@@ -1,4 +1,10 @@
-# Plutonium_T6_Zombies_Custom_Suvival_maps
+# Plutonium_T6_Zombies_Player_Select_And_Custom_Suvival_maps
+
+# This project now adds player selection options for every map
+
+![image](https://github.com/MisterSipster/Plutonium_T6_Zombies_Player_Select_And_Custom_Suvival_maps/assets/72221587/4d3350c7-2a8d-4528-a011-eaa9883513c0)
+![image](https://github.com/MisterSipster/Plutonium_T6_Zombies_Player_Select_And_Custom_Suvival_maps/assets/72221587/36dd3717-d2ab-4016-8fbb-42a5abb5e352)
+
 
 # This Project Add "CUSTOM SURVIVAL MAPS" option to plutonium T6 Zombies custom games lobby.
 
